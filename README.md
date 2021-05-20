@@ -11,8 +11,9 @@ This is a repository that hosts content for **ESS-DIVE's 2021 Community Data Wor
 # Viewing and downloading presentation PDFs
 
 1. select the folder corresponding to the session whose content you want to view.
+![Image of the repository's home directory with the session folder we want to click highlighted with a red circle](/images/step1.png)
+2. Click the link to the PDF of the presentation  
+![Lists the contents of the folder related to session five, this folder contains a PDF of a presentation from the community data workshop](/images/step2.png)
 
-2. Click the link to the PDF of the presentation
-
-3. Then, you can scroll down this page to view the presentation, or click the `download` button to save the PDF to your computer.
-
+3. Then, you can scroll down this page to view the presentation, or click the `download` button to save the PDF to your computer.  
+![The Download button is highlighted in red to indicate PDFs can be downloaded from this GitHub folder](images/step3.png)
